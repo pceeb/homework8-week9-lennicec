@@ -1,0 +1,1 @@
+sh testset.sh -i emp-single-end-sequences/ -o output-emp-single-end-sequences -m sample-metadata.tsv -x demultiplex-sequences/ -v visuals/
